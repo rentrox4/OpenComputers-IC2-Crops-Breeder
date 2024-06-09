@@ -1,3 +1,6 @@
+-- Growing new crops with any stats.
+-- Store everything.
+
 robot = require("robot")
 computer = require("computer")
 component = require("component")

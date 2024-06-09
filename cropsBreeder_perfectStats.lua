@@ -1,4 +1,4 @@
--- Keeps only 21-31-0, 23-31-0 on the field;
+-- Growing new crops only with 21-31-0, 23-31-0 stats.
 -- Store only 21-31-0, 23-31-0 crops seeds and the weed. Trash
 -- everything else in the trash can to the right of the output chest.
 
